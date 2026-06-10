@@ -112,17 +112,6 @@ The dashboard was built following a structured **data analytics workflow**:
 
 ---
 
-## 📂 Repository Structure
-project/
-│
-├── README.md
-├── images/
-│   ├── summary.png
-│   ├── tooltips.png
-│   ├── regional.png
-
----
-
 ## 🔮 Future Improvements
 - Integration with real-time data sources  
 - Advanced predictive analytics models  
