@@ -52,7 +52,11 @@ Detailed regional performance visualization with:
 - Budget year comparison
 - Drill-down capabilities
 
+#### View 1
 ![Regional Performance](images/regional.png)
+
+#### View 2
+![Regional Performance - Extended](images/regional2.png)
 
 ---
 
