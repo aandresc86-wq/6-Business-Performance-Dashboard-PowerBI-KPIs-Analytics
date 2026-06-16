@@ -1,4 +1,4 @@
-# 📊 Power BI Management Dashboard | Business-Performance-Dashboard-PowerBI-KPIs-Analytics
+# 📊 Data Analytics Project | Business Performance Dashboard (Power BI)
 
 ## 🚀 Overview
 This project showcases an **end-to-end Power BI dashboard** designed for **business performance monitoring**, **KPI tracking**, and **data-driven decision-making**.  
