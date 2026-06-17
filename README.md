@@ -7,6 +7,19 @@ The solution enables stakeholders to interact with data, explore trends, and ana
 
 ---
 
+## 🎯 Business Problem  
+Organizations require a centralized view of key business KPIs to monitor performance, track progress against targets, and support executive decision-making.
+
+---
+
+## ✅ Business Impact  
+- Enabled real-time monitoring of business performance indicators  
+- Improved visibility of KPI trends and deviations from targets  
+- Supported strategic decision-making through interactive reporting  
+- Reduced manual reporting processes and data fragmentation  
+
+---
+
 ## 🎯 Business Context
 In modern organizations, decision-making relies heavily on accurate and timely data insights.  
 
