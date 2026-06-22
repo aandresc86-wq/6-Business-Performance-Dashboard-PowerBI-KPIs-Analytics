@@ -12,11 +12,12 @@ Organizations require a centralized view of key business KPIs to monitor perform
 
 ---
 
-## ✅ Business Impact  
-- Enabled real-time monitoring of business performance indicators  
-- Improved visibility of KPI trends and deviations from targets  
-- Supported strategic decision-making through interactive reporting  
-- Reduced manual reporting processes and data fragmentation  
+## 💼 Business Impact
+- Improved **decision-making process**
+- Enhanced **performance visibility**
+- Reduction in manual reporting efforts
+- Enablement of **self-service analytics**
+- Better understanding of **regional performance drivers**
 
 ---
 
@@ -113,15 +114,6 @@ The dashboard was built following a structured **data analytics workflow**:
 - **Dashboard Development**
 - **Data Analysis**
 - **Performance Monitoring**
-
----
-
-## 💼 Business Impact
-- Improved **decision-making process**
-- Enhanced **performance visibility**
-- Reduction in manual reporting efforts
-- Enablement of **self-service analytics**
-- Better understanding of **regional performance drivers**
 
 ---
 
